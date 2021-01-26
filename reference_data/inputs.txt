@@ -1,0 +1,2 @@
+reference set name foo
+reference set name bar
